@@ -20,4 +20,4 @@ Mouse Clicking : https://youtu.be/5xloW0aQScs
 Note : I you are on macOS and want to execute the code. The program will take control of your mouse. If you do not wan to, you can uncomment the line 75 of handContour.cpp that call the mouse functions
 
 # To do:
-You will need to specify the path the the .xml classifier file. You can find it among the cpp and hpp files in the repository
+You will need to specify the path the the .xml classifier file. You can find it among the cpp and hpp files in the repository. So uncomment line 31 & 32 of main.cpp
