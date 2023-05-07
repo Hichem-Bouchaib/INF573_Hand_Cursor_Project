@@ -17,7 +17,7 @@ Hand Tracking : https://youtu.be/-0gHWn1T9rI
 Mouse Moving : https://youtu.be/bNElZO8QxvI  
 Mouse Clicking : https://youtu.be/5xloW0aQScs    
 
-Note : I you are on macOS and want to execute the code. The program will take control of your mouse. If you do not wan to, you can uncomment the line 75 of handContour.cpp that call the mouse functions
+Note : If you are on macOS and want to execute the code, the program will take control of your mouse. If you do not wan to, you can uncomment the line 75 of handContour.cpp that call the mouse functions
 
 <img width="456" alt="Capture d’écran 2020-03-11 à 02 11 58" src="https://user-images.githubusercontent.com/19905396/76372557-18000c80-633e-11ea-92da-4fbc08cda44c.png">
 <img width="235" alt="Capture d’écran 2020-03-11 à 02 12 03" src="https://user-images.githubusercontent.com/19905396/76372564-1b939380-633e-11ea-8e0a-e6b97fbfe393.png">
